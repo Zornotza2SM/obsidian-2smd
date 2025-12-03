@@ -1,4 +1,4 @@
-<b><h2>🎨 Photoshop-eko Kolore-Doikuntzen Iragazkiak </h2></b>
+<b><h1>🎨 Photoshop-eko Kolore-Doikuntzen Iragazkiak </h1></b>
 
 Iragazki hauek irudi baten tonalitatea, kolorea eta kontrastea aldatzeko funtsezko tresnak dira.
 
