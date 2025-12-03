@@ -21,6 +21,8 @@ Enaitz
     - [- Object Selection Tool / Select Subject](#--object-selection-tool--select-subject)
   - [Tresna aurreratuak/bektorialak:](#tresna-aurreratuakbektorialak)
     - [- Luma](#--luma)
+  - [Esteka:](#esteka)
+    - [Adobe Help Center](#adobe-help-center)
   
 
 ## Zer da?
@@ -58,3 +60,5 @@ Hautaketa bat irudi baten eremu isolatu bat da. Helburua da aldaketak aplikatzea
 ### - Luma
 - Trazadura bektorial zehatzak sortzea, gero hautapen bihurtzen direnak.
 ![alt text](image-11.png)
+## Esteka:
+### [Adobe Help Center](https://helpx.adobe.com/es/photoshop/using/making-quick-selections.html)
