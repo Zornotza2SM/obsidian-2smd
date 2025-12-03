@@ -7,6 +7,7 @@
 * **Geruzak:** Irudiaren **zati bat** aldatzeko balio dute, beste zatiak ukitu gabe.
 * **Nahasketa Moduak:** **Goiko geruzako** eta **beheko geruzako** koloreak **nola konbinatzen** diren zehazten duten arauak dira.
 
+![alt text](image-2.png)
 ---
 
 ## 🎚️ Nahasketa Modu Motak (Adibideak)
