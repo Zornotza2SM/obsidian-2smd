@@ -23,6 +23,8 @@ Laukizuzen eremu baten barruan aplikatzen den desenfokatu norabiduna sortzen du.
 ## 🔹 7. Gainazal-desenfokatzea (Desenfoque de superficie…)
 Azalera lauak desenfokatzen ditu ertzak ondo mantenduz. Azala leuntzeko oso erabilia, xehetasunak ez galtzeko.
 
+![alt text](image-1.png)
+
 ## 🔹 8. Gauss-desenfokatzea (Desenfoque gaussiano…)
 Oso erabilia. Kurba gaussiar batean oinarritutako leunketa aplikatzen du. Argazki-konponketan eta efektu leunetan oso ohikoa.
 
