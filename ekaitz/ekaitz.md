@@ -7,6 +7,7 @@
 * **Geruzak:** Irudiaren **zati bat** aldatzeko balio dute, beste zatiak ukitu gabe.
 * **Nahasketa Moduak:** **Goiko geruzako** eta **beheko geruzako** koloreak **nola konbinatzen** diren zehazten duten arauak dira.
 
+![alt text](image-2.png)
 ---
 
 ## 🎚️ Nahasketa Modu Motak (Adibideak)
@@ -19,6 +20,8 @@
 | **Argi Leuna (Soft Light)** | Gainjarri bezalakoa, baina **askoz leunagoa**. | Argi eta itzal hobekuntza txikiak. |
 | **Nahasketa Gogorra (Hard Mix)** | Irudia **8 kolore oinarrizkora** murriztu. | Komiki edo **kolore lauko** itxura eman. |
 
+![alt text](image-3.png)
+
 ### 2. Alde Taldea 🔄
 
 | Nahasketa Modua | Zer egiten du (Labur) | Eragin Nagusia |
@@ -27,6 +30,7 @@
 | **Bazterketa (Exclusion)** | Aldea bezalakoa, baina **leuntxoagoa**. | Kontraste txikiagoko kolore inbertsioa. |
 
 ---
+[](ekaitzutzi.png)
 
 ### 💡 Geruzak Kontrolatzeko Gakoak
 

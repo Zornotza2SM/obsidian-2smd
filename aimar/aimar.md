@@ -2,6 +2,8 @@
 
 Photoshop-en, **Filtro → Desenfocar** atalaren barruan, irudian leuntasuna, mugimendu-sentsazioa edo sakonera sortzeko hainbat efektu daude. Behean menuan agertzen diren aukera bakoitza azaltzen da.
 
+![alt text](image.png)
+
 ## 🔹 1. Desenfokatu (Desenfocar)
 Irudi osoan edo hautapenean modu uniformean aplikatzen den oinarrizko desenfokatu leuna.
 
@@ -23,6 +25,8 @@ Laukizuzen eremu baten barruan aplikatzen den desenfokatu norabiduna sortzen du.
 ## 🔹 7. Gainazal-desenfokatzea (Desenfoque de superficie…)
 Azalera lauak desenfokatzen ditu ertzak ondo mantenduz. Azala leuntzeko oso erabilia, xehetasunak ez galtzeko.
 
+![alt text](image-1.png)
+
 ## 🔹 8. Gauss-desenfokatzea (Desenfoque gaussiano…)
 Oso erabilia. Kurba gaussiar batean oinarritutako leunketa aplikatzen du. Argazki-konponketan eta efektu leunetan oso ohikoa.
 
@@ -34,5 +38,3 @@ Ertzak errespetatzen dituen desenfokatu leun eta kontrolatua. Zarataren murrizke
 
 ## 🔹 11. Batez bestekoa (Media)
 Hautatutako eremuaren koloreak batez bestekatu eta tonu uniforme batekin ordezkatzen ditu. Atzeko planoetarako edo leunketa muturrerako erabilgarria.
-
-![alt text](image.png)
