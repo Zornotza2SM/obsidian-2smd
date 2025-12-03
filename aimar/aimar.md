@@ -25,8 +25,12 @@ Photoshop-en, **Filtro → Desenfocar** atalaren barruan, irudian leuntasuna, mu
 ## 🔹 1. Desenfokatu (Desenfocar)
 Irudi osoan edo hautapenean modu uniformean aplikatzen den oinarrizko desenfokatu leuna.
 
+![alt text](image-2.png)
+
 ## 🔹 2. Gehiago desenfokatu (Desenfocar más)
 Oinarrizko desenfokatuaren bertsio indartuagoa; efektua sendoago aplikatzen du.
+
+![alt text](image-3.png)
 
 ## 🔹 3. Formaren bidezko desenfokatzea (Desenfoque de forma…)
 Aurrez definitutako forma batean oinarritutako desenfokatu pertsonalizatuak sortzen ditu. Efektu artistikoetarako erabilgarria.
@@ -34,11 +38,17 @@ Aurrez definitutako forma batean oinarritutako desenfokatu pertsonalizatuak sort
 ## 🔹 4. Lente-desenfokatzea (Desenfoque de lente…)
 Kameraren benetako desenfokatze-efektua simulatzen du. Sakonera-eremua, diafragma eta argi-banaketa kontrolatzeko aukera ematen du.
 
+![alt text](image-4.png)
+
 ## 🔹 5. Mugimendu-desenfokatzea (Desenfoque de movimiento…)
 Objektu bat mugitzen ari dela irudikatzen du. Angelua eta distantzia doitu daitezke.
 
+![alt text](image-5.png)
+
 ## 🔹 6. Laukizuzen-desenfokatzea (Desenfoque de rectángulo…)
 Laukizuzen eremu baten barruan aplikatzen den desenfokatu norabiduna sortzen du.
+
+![alt text](image-6.png)
 
 ## 🔹 7. Gainazal-desenfokatzea (Desenfoque de superficie…)
 Azalera lauak desenfokatzen ditu ertzak ondo mantenduz. Azala leuntzeko oso erabilia, xehetasunak ez galtzeko.
@@ -48,11 +58,17 @@ Azalera lauak desenfokatzen ditu ertzak ondo mantenduz. Azala leuntzeko oso erab
 ## 🔹 8. Gauss-desenfokatzea (Desenfoque gaussiano…)
 Oso erabilia. Kurba gaussiar batean oinarritutako leunketa aplikatzen du. Argazki-konponketan eta efektu leunetan oso ohikoa.
 
+![alt text](image-9.png)
+
 ## 🔹 9. Desenfokatu erradiala (Desenfoque radial…)
 Biraketa edo zoom-mugimendua simulatzen duen desenfokatu zirkularra sortzen du.
 
+![alt text](image-7.png)
+
 ## 🔹 10. Desenfokatu leundua (Desenfoque suavizado…)
 Ertzak errespetatzen dituen desenfokatu leun eta kontrolatua. Zarataren murrizketarako oso aproposa.
+
+![alt text](image-10.png)
 
 ## 🔹 11. Batez bestekoa (Media)
 Hautatutako eremuaren koloreak batez bestekatu eta tonu uniforme batekin ordezkatzen ditu. Atzeko planoetarako edo leunketa muturrerako erabilgarria.
