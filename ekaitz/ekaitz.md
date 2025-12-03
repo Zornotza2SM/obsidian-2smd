@@ -30,6 +30,7 @@
 | **Bazterketa (Exclusion)** | Aldea bezalakoa, baina **leuntxoagoa**. | Kontraste txikiagoko kolore inbertsioa. |
 
 ---
+[](ekaitzutzi.png)
 
 ### 💡 Geruzak Kontrolatzeko Gakoak
 
