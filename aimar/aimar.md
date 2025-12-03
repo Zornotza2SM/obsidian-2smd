@@ -1,6 +1,24 @@
 # 📘 Photoshop-eko Filtroa: Desenfokatu atala
+### _Photoshop-en desenfokatze-aukerak modu errazean azaltuta_
 
-Photoshop-en, **Filtro → Desenfocar** atalaren barruan, irudian leuntasuna, mugimendu-sentsazioa edo sakonera sortzeko hainbat efektu daude. Behean menuan agertzen diren aukera bakoitza azaltzen da.
+## 📑 Aurkibidea
+- [📘 Photoshop-eko Filtroa: Desenfokatu atala](#-photoshop-eko-filtroa-desenfokatu-atala)
+    - [_Photoshop-en desenfokatze-aukerak modu errazean azaltuta_](#photoshop-en-desenfokatze-aukerak-modu-errazean-azaltuta)
+  - [📑 Aurkibidea](#-aurkibidea)
+  - [🔹 1. Desenfokatu (Desenfocar)](#-1-desenfokatu-desenfocar)
+  - [🔹 2. Gehiago desenfokatu (Desenfocar más)](#-2-gehiago-desenfokatu-desenfocar-más)
+  - [🔹 3. Formaren bidezko desenfokatzea (Desenfoque de forma…)](#-3-formaren-bidezko-desenfokatzea-desenfoque-de-forma)
+  - [🔹 4. Lente-desenfokatzea (Desenfoque de lente…)](#-4-lente-desenfokatzea-desenfoque-de-lente)
+  - [🔹 5. Mugimendu-desenfokatzea (Desenfoque de movimiento…)](#-5-mugimendu-desenfokatzea-desenfoque-de-movimiento)
+  - [🔹 6. Laukizuzen-desenfokatzea (Desenfoque de rectángulo…)](#-6-laukizuzen-desenfokatzea-desenfoque-de-rectángulo)
+  - [🔹 7. Gainazal-desenfokatzea (Desenfoque de superficie…)](#-7-gainazal-desenfokatzea-desenfoque-de-superficie)
+  - [🔹 8. Gauss-desenfokatzea (Desenfoque gaussiano…)](#-8-gauss-desenfokatzea-desenfoque-gaussiano)
+  - [🔹 9. Desenfokatu erradiala (Desenfoque radial…)](#-9-desenfokatu-erradiala-desenfoque-radial)
+  - [🔹 10. Desenfokatu leundua (Desenfoque suavizado…)](#-10-desenfokatu-leundua-desenfoque-suavizado)
+  - [🔹 11. Batez bestekoa (Media)](#-11-batez-bestekoa-media)
+  - [🔗 Esteka erabilgarria](#-esteka-erabilgarria)
+
+Photoshop-en, **Filtro → Desenfocar** atalaren barruan, irudian leuntasuna, mugimendu-sentsazioa edo sakonera sortzeko hainbat efektu daude. Behean agertzen diren aukera bakoitza azaltzen da.
 
 ![alt text](image.png)
 
@@ -38,3 +56,6 @@ Ertzak errespetatzen dituen desenfokatu leun eta kontrolatua. Zarataren murrizke
 
 ## 🔹 11. Batez bestekoa (Media)
 Hautatutako eremuaren koloreak batez bestekatu eta tonu uniforme batekin ordezkatzen ditu. Atzeko planoetarako edo leunketa muturrerako erabilgarria.
+
+## 🔗 Esteka erabilgarria
+[Link](https://helpx.adobe.com/es/photoshop/using/quick-actions/blur-background.html)
