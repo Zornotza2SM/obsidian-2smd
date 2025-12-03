@@ -1,6 +1,6 @@
 # 📘 Photoshop-eko Filtroa: Desenfokatu atala
 
-Photoshop-en, **Filtroa → Desenfokatu** atalaren barruan, irudian leuntasuna, mugimendu-sentsazioa edo sakonera sortzeko hainbat efektu daude. Behean menuan agertzen diren aukera bakoitza azaltzen da.
+Photoshop-en, **Filtro → Desenfocar** atalaren barruan, irudian leuntasuna, mugimendu-sentsazioa edo sakonera sortzeko hainbat efektu daude. Behean menuan agertzen diren aukera bakoitza azaltzen da.
 
 ## 🔹 1. Desenfokatu (Desenfocar)
 Irudi osoan edo hautapenean modu uniformean aplikatzen den oinarrizko desenfokatu leuna.
