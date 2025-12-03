@@ -2,7 +2,7 @@
 ## Aukeraketa motak:
 Enaitz
 
-![alt text](image.png)
+![alt text](image-Photoroom.png)
 
 
 - [Photoshop](#photoshop)
