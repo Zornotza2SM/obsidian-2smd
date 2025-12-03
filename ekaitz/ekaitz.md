@@ -47,3 +47,5 @@ Para dominar las capas, recuerda siempre que puedes controlar tres aspectos clav
 1.  **Opacidad (Opacity):** Qué tan transparente es la capa.
 2.  **Relleno (Fill):** Similar a la opacidad, pero afecta de manera diferente a los **Estilos de Capa** (como sombras y biselados).
 3.  **Modo de Fusión (Blending Mode):** La regla matemática para combinar los colores de los píxeles.
+
+![alt text](image.png)
