@@ -1,6 +1,12 @@
 ## 🎨 Geruzak eta Nahasketa Moduak 
 
 ---
+# Índice
+  - [🎨 Geruzak eta Nahasketa Moduak](#🎨-Geruzak-eta-Nahasketa-Moduak)
+  - [🎚️ Nahasketa Modu Motak](#🎚️-Nahasketa-Modu-Motak)
+    - [1. Kontraste Taldea 💥](#1-Kontraste-Taldea-💥)
+    - [2. Alde Taldea 🔄](#2-Alde-Taldea-🔄)
+    - [💡 Geruzak Kontrolatzeko Gakoak]
 
 **Geruza bat** irudi bateko **txantiloi garden** bat bezalakoa da. Photoshop-eko irudiak geruza horien pilaketa bat dira.
 
