@@ -23,6 +23,8 @@ Hau da gure irudia filtro aplikatu barik:
 ## 1. Kolore-Balantza (Equilibrio de Color)
 
 Kolore-Balantza funtsezko tresna da kolorea zuzentzeko edo irudi bati ñabardura artistikoa aplikatzeko.
+<br>
+![alt text](image-6.png)
 
 ## 🔍 Zer egiten du?
 
@@ -61,6 +63,8 @@ Honela ikusten da filtroa aplikatuz:
 # 2. Zuri-Beltza (Blanco y Negro)
 
 Zuri-Beltza doikuntza, Photoshop-en, irudi bat gris-eskalara bihurtzeko modu aurreratu eta kontrolatuena da.
+<br>
+![alt text](image-7.png)
 
 ## 🔍 Zer egiten du?
 
@@ -88,7 +92,8 @@ Honela ikusten da filtroa aplikatu ondoren:
 # 3. Gradiente-Mapa (Mapa de Degradado)
 
 Tresna sortzaile eta doikuntza tonala da, irudiaren distira-tonuak gradiente bateko koloreekin ordezkatzen dituena.
-
+<br>
+![alt text](image-5.png)
 ## 🔍 Zer egiten du?
 
 <b>Irudiaren distira-balioei kolore-gradiente bat esleitzen die:
