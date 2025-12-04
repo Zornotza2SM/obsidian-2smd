@@ -1,6 +1,12 @@
-## 🎨 Geruzak eta Nahasketa Moduak (Oinarriak)
+## 🎨 Geruzak eta Nahasketa Moduak 
 
 ---
+# Índice
+  - [🎨 Geruzak eta Nahasketa Moduak](#🎨-Geruzak-eta-Nahasketa-Moduak)
+  - [🎚️ Nahasketa Modu Motak](#🎚️-Nahasketa-Modu-Motak)
+    - [1. Kontraste Taldea 💥](#1-Kontraste-Taldea-💥)
+    - [2. Alde Taldea 🔄](#2-Alde-Taldea-🔄)
+    - [💡 Geruzak Kontrolatzeko Gakoak]
 
 **Geruza bat** irudi bateko **txantiloi garden** bat bezalakoa da. Photoshop-eko irudiak geruza horien pilaketa bat dira.
 
@@ -10,11 +16,11 @@
 ![alt text](image-2.png)
 ---
 
-## 🎚️ Nahasketa Modu Motak (Adibideak)
+## 🎚️ Nahasketa Modu Motak
 
 ### 1. Kontraste Taldea 💥
 
-| Nahasketa Modua | Zer egiten du (Labur) | Eragin Nagusia |
+| Nahasketa Modua | Zer egiten du | Eragin Nagusia |
 | :--- | :--- | :--- |
 | **Gainjarri** | Argiak argitu eta itzalak ilundu. | **Kontrastea** eta saturazioa asko handitu. |
 | **Argi Leuna** | Gainjarri bezalakoa, baina **askoz leunagoa**. | Argi eta itzal hobekuntza txikiak. |

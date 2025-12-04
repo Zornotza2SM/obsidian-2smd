@@ -14,7 +14,6 @@
   - [🧠 Funtzionamendua](#-funtzionamendua)
   - [🎯 Erabilera ohikoa](#-erabilera-ohikoa-2)
 
-
 Iragazki hauek irudi baten tonalitatea, kolorea eta kontrastea aldatzeko funtsezko tresnak dira.
 
 Hau da gure irudia filtro aplikatu barik:
@@ -24,6 +23,8 @@ Hau da gure irudia filtro aplikatu barik:
 ## 1. Kolore-Balantza (Equilibrio de Color)
 
 Kolore-Balantza funtsezko tresna da kolorea zuzentzeko edo irudi bati ñabardura artistikoa aplikatzeko.
+<br>
+![alt text](image-6.png)
 
 ## 🔍 Zer egiten du?
 
@@ -54,6 +55,7 @@ Kolore-dominanteak kentzeko (adibidez, irudi urdin edo berdeegia).
 Aldarte-efektuak sortzeko (adibidez, egunsenti bati tonu laranja beroa ematea).
 
 Honela ikusten da filtroa aplikatuz:
+<br>
 ![alt text](image-1.png)
 
 <br>
@@ -61,6 +63,8 @@ Honela ikusten da filtroa aplikatuz:
 # 2. Zuri-Beltza (Blanco y Negro)
 
 Zuri-Beltza doikuntza, Photoshop-en, irudi bat gris-eskalara bihurtzeko modu aurreratu eta kontrolatuena da.
+<br>
+![alt text](image-7.png)
 
 ## 🔍 Zer egiten du?
 
@@ -82,12 +86,14 @@ Kontraste dramatikoa sortzeko.
 Zuri-beltzeko irudiaren tonalitatearen kontrol osoa izateko.
 
 Honela ikusten da filtroa aplikatu ondoren:
+<br>
 ![alt text](image-2.png)
 
 # 3. Gradiente-Mapa (Mapa de Degradado)
 
 Tresna sortzaile eta doikuntza tonala da, irudiaren distira-tonuak gradiente bateko koloreekin ordezkatzen dituena.
-
+<br>
+![alt text](image-5.png)
 ## 🔍 Zer egiten du?
 
 <b>Irudiaren distira-balioei kolore-gradiente bat esleitzen die:
@@ -116,8 +122,10 @@ Eskuineko kolorea → Argiunetan
 <b>Tonalitate-mapeoa:</b> <br>Zuri-beltzeko irudietan kolore-paleta artistikoak aplikatzeko.
 
 Honela ikusten da filtroa aplikatu ondoren:
+<br>
 ![alt text](image-3.png)
 
 
-<b>Amaitzeko filtro denak aplikatuz ondoren diseinu desberdinak atera ahal dugu, adibidez filtro guztiak aplikatu ondoren honela gelditzen da irudia:</b>
+Amaitzeko filtro denak aplikatuz ondoren diseinu desberdinak atera ahal dugu, adibidez filtro guztiak aplikatu ondoren honela gelditzen da irudia:
+<br>
 ![alt text](image-4.png)
