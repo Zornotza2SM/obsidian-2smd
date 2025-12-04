@@ -1,4 +1,4 @@
-## 🎨 Geruzak eta Nahasketa Moduak (Oinarriak)
+## 🎨 Geruzak eta Nahasketa Moduak 
 
 ---
 
@@ -10,11 +10,11 @@
 ![alt text](image-2.png)
 ---
 
-## 🎚️ Nahasketa Modu Motak (Adibideak)
+## 🎚️ Nahasketa Modu Motak
 
 ### 1. Kontraste Taldea 💥
 
-| Nahasketa Modua | Zer egiten du (Labur) | Eragin Nagusia |
+| Nahasketa Modua | Zer egiten du | Eragin Nagusia |
 | :--- | :--- | :--- |
 | **Gainjarri** | Argiak argitu eta itzalak ilundu. | **Kontrastea** eta saturazioa asko handitu. |
 | **Argi Leuna** | Gainjarri bezalakoa, baina **askoz leunagoa**. | Argi eta itzal hobekuntza txikiak. |
