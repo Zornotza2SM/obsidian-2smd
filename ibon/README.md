@@ -14,7 +14,6 @@
   - [🧠 Funtzionamendua](#-funtzionamendua)
   - [🎯 Erabilera ohikoa](#-erabilera-ohikoa-2)
 
-
 Iragazki hauek irudi baten tonalitatea, kolorea eta kontrastea aldatzeko funtsezko tresnak dira.
 
 Hau da gure irudia filtro aplikatu barik:
@@ -119,5 +118,5 @@ Honela ikusten da filtroa aplikatu ondoren:
 ![alt text](image-3.png)
 
 
-<b>Amaitzeko filtro denak aplikatuz ondoren diseinu desberdinak atera ahal dugu, adibidez filtro guztiak aplikatu ondoren honela gelditzen da irudia:</b>
+Amaitzeko filtro denak aplikatuz ondoren diseinu desberdinak atera ahal dugu, adibidez filtro guztiak aplikatu ondoren honela gelditzen da irudia:
 ![alt text](image-4.png)
