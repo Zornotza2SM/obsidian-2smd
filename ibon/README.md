@@ -53,6 +53,7 @@ Kolore-dominanteak kentzeko (adibidez, irudi urdin edo berdeegia).
 Aldarte-efektuak sortzeko (adibidez, egunsenti bati tonu laranja beroa ematea).
 
 Honela ikusten da filtroa aplikatuz:
+<br>
 ![alt text](image-1.png)
 
 <br>
@@ -81,6 +82,7 @@ Kontraste dramatikoa sortzeko.
 Zuri-beltzeko irudiaren tonalitatearen kontrol osoa izateko.
 
 Honela ikusten da filtroa aplikatu ondoren:
+<br>
 ![alt text](image-2.png)
 
 # 3. Gradiente-Mapa (Mapa de Degradado)
@@ -115,8 +117,10 @@ Eskuineko kolorea → Argiunetan
 <b>Tonalitate-mapeoa:</b> <br>Zuri-beltzeko irudietan kolore-paleta artistikoak aplikatzeko.
 
 Honela ikusten da filtroa aplikatu ondoren:
+<br>
 ![alt text](image-3.png)
 
 
 Amaitzeko filtro denak aplikatuz ondoren diseinu desberdinak atera ahal dugu, adibidez filtro guztiak aplikatu ondoren honela gelditzen da irudia:
+<br>
 ![alt text](image-4.png)
