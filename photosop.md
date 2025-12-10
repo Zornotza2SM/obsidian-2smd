@@ -18,7 +18,7 @@ Zure eszenari errealismoa emateko, 3D produkzioaren funtsezko elementuak kontrol
 | :--- | :--- | :--- |
 | **Argien Kontrola** | Giroa definitzeko argi-iturriak gehitzea ahalbidetzen du. | Norabidekoak, Fokuak eta Girokoak. |
 | **Argiaren Propietateak** | Argiak modeloarekin nola elkarreragiten duen zehazten dute. | Intentsitatea, Kolorea eta Itzalak. |
-| **Errendatzea** | 3D eszena azken 2D irudi bihurtzen duen prozesua. | CPU bidezko errendatzea edo GPU bidez bizkortua (azkarragoa). |
+
 
 ### 📐 Forma Errazak Sortzea
 
