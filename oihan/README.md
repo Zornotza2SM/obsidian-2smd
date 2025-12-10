@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Photoshop Filtroak
 - [Photoshop Filtroak](#photoshop-filtroak)
     - [Asalduko dut nola erabili filtro batzuk](#asalduko-dut-nola-erabili-filtro-batzuk)
@@ -76,5 +76,4 @@ Eskerrikasko irakurztea gahitik,
 
 **Oihan** 
 =======
-"# obsidian-2smd" 
->>>>>>> 582ff6dad31c1bd33a8a0506576108b8d66ca89b
+
