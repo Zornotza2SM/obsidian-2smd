@@ -27,6 +27,7 @@ Zertarako: Elementuak nabarmentzeko, arreta deitzeko edo "neon" edo "argiztatuta
 ![alt text](image-5.png) BH
 ## 5. Sombra paralela (Itzal Eroria / Drop Shadow)
 Zer da: Geruzaren edukiaren atzean eta azpian itzal simulatua sortzen du, norabide, distantzia eta leuntasun jakin batekin.
-![alt text](image-6.png)
 Zertarako: Elementuak hiru dimentsiotan edo altxatuta daudela irudikatzeko, sakontasuna eta errealismoa gehituz diseinuari. Elementu interaktiboak (botoiak) bereizteko ezinbestekoa da.
+![alt text](image-6.png)
+
 ![alt text](image.png)
